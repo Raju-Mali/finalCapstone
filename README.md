@@ -23,3 +23,8 @@ To Run copy below code to cmd.
 python finalCapstone\task_manager.py
 ```
 
+## Usages
+To begin you will first need to enter 'admin' as username and 'password' as password.
+
+
+Please follow the simple intructions
